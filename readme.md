@@ -1,3 +1,3 @@
 # Projeto Calculadora Científica
 
-Criado by Inter
+Created by Interaminense
